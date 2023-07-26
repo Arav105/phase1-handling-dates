@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\phase1-handling date\phase1-handling\bin\Debug\phase1-handling.exe.config
+C:\Users\Admin\source\repos\phase1-handling date\phase1-handling\bin\Debug\phase1-handling.exe
+C:\Users\Admin\source\repos\phase1-handling date\phase1-handling\bin\Debug\phase1-handling.pdb
+C:\Users\Admin\source\repos\phase1-handling date\phase1-handling\obj\Debug\phase1-handling.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\phase1-handling date\phase1-handling\obj\Debug\phase1-handling.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\phase1-handling date\phase1-handling\obj\Debug\phase1-handling.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\phase1-handling date\phase1-handling\obj\Debug\phase1-handling.exe
+C:\Users\Admin\source\repos\phase1-handling date\phase1-handling\obj\Debug\phase1-handling.pdb
